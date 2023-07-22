@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThiagoAlvesRanieri
+- 👋 Hi, I’m Thiago Alves Ranieri
 - 👀 I’m interested in Fullstack Developer .
 - 🌱 I’m currently HTML, CSS, JS, REACT, ANGULAR, Bootstrap, Tailwind.
 - 💞️ I’m looking to collaborate on projects related to HTML/CSS and JavaScript.
